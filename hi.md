@@ -1,11 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 For practice git rebase! Go For it!!!
 
-For practice git rebase
+=======
+For practice git rebase! Do Your Best!
+
+> > > > > > > bf407b5 (MODIFY : hi.md)
+> > > > > > > For practice git rebase
 
 practice
 
 first commit
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 > > > > > > > 7e1d45b (ADD : First Commit)
